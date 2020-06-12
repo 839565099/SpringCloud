@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>springcloud-payment8001</module>
+        <module>springcloud-payment8002</module>
         <module>springcloud-order80</module>
         <module>springcloud-api-commons</module>
         <module>springcloud-eureka-server7001</module>

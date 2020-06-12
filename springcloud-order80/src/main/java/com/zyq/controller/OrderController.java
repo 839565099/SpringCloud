@@ -16,7 +16,9 @@ import java.util.HashMap;
 @RestController
 @Slf4j
 public class OrderController {
-    public static final String PAYMENT_URL = "http://localhost:8001";
+//    不能写死
+//    public static final String PAYMENT_URL = "http://localhost:8001";
+    public static final String PAYMENT_URL="http://SPRINGCLOUD-PAYMENT-SERVICE";
     @Resource
     private RestTemplate restTemplate;
 
