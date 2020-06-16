@@ -43,4 +43,13 @@ public class PaymentController {
             return new CommonResult(444, "没有对应记录，查询ID：" + id, null);
         }
     }
+
+    /**
+     * 测试手写负载均衡算法
+     * @return
+     */
+    @GetMapping(value = "/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
 }

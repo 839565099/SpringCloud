@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-payment8001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-api-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-api-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-server7002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-payment8002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-payment8004/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-zk-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-payment8006/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consul-order80/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

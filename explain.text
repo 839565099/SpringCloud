@@ -1,0 +1,11 @@
+aip-commons：公共工具类/公共代码
+eureka-server7001/7002：eureka注册中心集群
+payment8001/8002：注册进eureka集群的支付微服务，服务提供者
+order80：注册进eureka集群的服务调用者微服务，负责调用8001/8002
+启动：先启动7001>7002>8001>8002>80 之后就可以访问80端口
+
+payment8004：注册进zookeeper的支付微服务，服务提供者
+zk-order80：注册进zookeeper的服务调用者
+
+payment8006：注册进consul的支付微服务，服务提供者
+consul-order80：注册进consul的服务调用者
