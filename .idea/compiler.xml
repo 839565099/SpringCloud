@@ -2,21 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-api-commons" />
-        <module name="springcloud-api-commons" />
-        <module name="springcloud-consul-order80" />
-        <module name="springcloud-eureka-server7001" />
         <module name="springcloud-eureka-server7002" />
-        <module name="springcloud-order80" />
-        <module name="springcloud-payment8001" />
-        <module name="springcloud-payment8002" />
+        <module name="springcloud-eureka-server7001" />
+        <module name="cloud-api-commons" />
         <module name="springcloud-payment8004" />
-        <module name="springcloud-payment8006" />
+        <module name="springcloud-payment8002" />
+        <module name="springcloud-payment8001" />
         <module name="springcloud-zk-order80" />
+        <module name="springcloud-payment8006" />
+        <module name="springcloud-consul-order80" />
+        <module name="springcloud-order80" />
+        <module name="springcloud-api-commons" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

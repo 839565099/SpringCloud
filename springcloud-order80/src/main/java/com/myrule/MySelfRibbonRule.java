@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 public class MySelfRibbonRule {
-//    @Bean
+    @Bean
     public IRule myRule(){
         /**
          * 定义Ribbon随意负载均衡规则
