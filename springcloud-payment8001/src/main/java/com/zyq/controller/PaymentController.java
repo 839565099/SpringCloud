@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
+import java.util.concurrent.TimeUnit;
 
 /**
  * 作者：张翼麒
@@ -53,5 +54,19 @@ public class PaymentController {
     @GetMapping(value = "/payment/lb")
     public String getPaymentLB(){
         return serverPort;
+    }
+
+    /**
+     * 测试OpenFeign超时控制，在服务提供方，假设需要执行3秒钟，但是81调用方只等待
+     */
+    @GetMapping("/getString")
+    public String getServerString(){
+        try {
+            TimeUnit.SECONDS.sleep(3);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }finally {
+            return "success!!!!!";
+        }
     }
 }
