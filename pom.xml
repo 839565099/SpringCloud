@@ -5,12 +5,14 @@
     <packaging>pom</packaging>
     <modules>
         <module>springcloud-payment8001</module>
+        <module>springcloud-hystrix-payment8001</module>
         <module>springcloud-payment8002</module>
         <module>springcloud-payment8004</module>
         <module>springcloud-payment8006</module>
         <module>springcloud-order80</module>
         <module>springcloud-zk-order80</module>
         <module>springcloud-openfeign-order80</module>
+        <module>springcloud-openfeign-hystrix-order80</module>
         <module>springcloud-consul-order80</module>
         <module>springcloud-api-commons</module>
         <module>springcloud-eureka-server7001</module>
