@@ -19,6 +19,7 @@
         <module name="springcloud-openfeign-order80" />
         <module name="springcloud-order80" />
         <module name="springcloud-consul-order80" />
+        <module name="springcloud-hystrix-dashboard9001" />
         <module name="springcloud-zk-order80" />
         <module name="springcloud-hystrix-payment8001" />
       </profile>
@@ -30,6 +31,7 @@
       <module name="springcloud-consul-order80" target="1.8" />
       <module name="springcloud-eureka-server7001" target="1.8" />
       <module name="springcloud-eureka-server7002" target="1.8" />
+      <module name="springcloud-hystrix-dashboard9001" target="1.8" />
       <module name="springcloud-hystrix-payment8001" target="1.8" />
       <module name="springcloud-openfeign-hystrix-order80" target="1.8" />
       <module name="springcloud-openfeign-order80" target="1.8" />
@@ -49,6 +51,7 @@
       <module name="springcloud-consul-order80" options="-parameters" />
       <module name="springcloud-eureka-server7001" options="-parameters" />
       <module name="springcloud-eureka-server7002" options="-parameters" />
+      <module name="springcloud-hystrix-dashboard9001" options="-parameters" />
       <module name="springcloud-hystrix-payment8001" options="-parameters" />
       <module name="springcloud-openfeign-hystrix-order80" options="-parameters" />
       <module name="springcloud-openfeign-order80" options="-parameters" />

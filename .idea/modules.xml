@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud-consul-order80/springcloud-consul-order80.iml" filepath="$PROJECT_DIR$/springcloud-consul-order80/springcloud-consul-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server7002/springcloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server7002/springcloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix-dashboard9001/springcloud-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/springcloud-hystrix-dashboard9001/springcloud-hystrix-dashboard9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-hystrix-payment8001/springcloud-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/springcloud-hystrix-payment8001/springcloud-hystrix-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-openfeign-hystrix-order80/springcloud-openfeign-hystrix-order80.iml" filepath="$PROJECT_DIR$/springcloud-openfeign-hystrix-order80/springcloud-openfeign-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-openfeign-order80/springcloud-openfeign-order80.iml" filepath="$PROJECT_DIR$/springcloud-openfeign-order80/springcloud-openfeign-order80.iml" />
