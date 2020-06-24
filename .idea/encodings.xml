@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka-server7001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-server7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-server7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-gateway9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-gateway9527/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-hystrix-dashboard9001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-hystrix-payment8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-openfeign-hystrix-order80/src/main/java" charset="UTF-8" />

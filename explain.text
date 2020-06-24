@@ -13,3 +13,8 @@ consul-order80：注册进consul的服务调用者
 openfeign-order80:不是像order80一样使用RestTemplate，而是使用openFeign调用微服务，和order80
 只是调用微服务调技术不一样
 启动：先启动7001>7002>8001>8002>openfeign-order80
+
+hystrix-payment8001:测试服务降级、服务熔断的微服务提供者
+openfeign-hystrix-order80:测试服务降级，熔断的服务调用者
+hystrix-dashboard9001:服务监控平台
+启动：7001、7002、hystrix-payment8001、openfeign-hystrix-order80、hystrix-dashboard9001

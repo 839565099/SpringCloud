@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/springcloud-hystrix-payment8001/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-openfeign-hystrix-order80/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-hystrix-dashboard9001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-gateway9527/pom.xml" />
       </list>
     </option>
   </component>
