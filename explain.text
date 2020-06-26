@@ -23,4 +23,3 @@ gateway-gateway9527:网关，配合8001、8002
 启动：7001、7002、8001、8002、9527
 
 config3344、config-client3355：springcloud配置中心
-启动：7001、7002、3344、3355
