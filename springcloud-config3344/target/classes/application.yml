@@ -15,8 +15,22 @@ spring:
       ####\u8BFB\u53D6\u5206\u652F
       label: master
 
+
+  #rabbitmq相关配置 15672是Web管理界面的端口；5672是MQ访问的端口
+  rabbitmq:
+    host: 192.168.174.131
+    port: 5672
+    username: guest
+    password: guest
+
 #\u670D\u52A1\u6CE8\u518C\u5230eureka\u5730\u5740
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'

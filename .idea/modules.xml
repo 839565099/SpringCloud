@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../第2季当堂代码2020.2.29/cloud2020/cloud-config-client-3355/cloud-config-client-3355 (1).iml" filepath="$PROJECT_DIR$/../../第2季当堂代码2020.2.29/cloud2020/cloud-config-client-3355/cloud-config-client-3355 (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../第2季当堂代码2020.2.29/cloud2020/cloud-config-client-3355/cloud-config-client-3355 (2).iml" filepath="$PROJECT_DIR$/../../第2季当堂代码2020.2.29/cloud2020/cloud-config-client-3355/cloud-config-client-3355 (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-api-commons/springcloud-api-commons.iml" filepath="$PROJECT_DIR$/springcloud-api-commons/springcloud-api-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-config-client3355/springcloud-config-client3355.iml" filepath="$PROJECT_DIR$/springcloud-config-client3355/springcloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client3366/springcloud-config-client3366.iml" filepath="$PROJECT_DIR$/springcloud-config-client3366/springcloud-config-client3366.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-config3344/springcloud-config3344.iml" filepath="$PROJECT_DIR$/springcloud-config3344/springcloud-config3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consul-order80/springcloud-consul-order80.iml" filepath="$PROJECT_DIR$/springcloud-consul-order80/springcloud-consul-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" />
