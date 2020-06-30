@@ -9,17 +9,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-api-commons" />
         <module name="springcloud-config-client3366" />
+        <module name="springcloud-stream-rabbitmq-consumer8803" />
         <module name="springcloud-payment8006" />
         <module name="springcloud-payment8004" />
         <module name="springcloud-payment8002" />
         <module name="springcloud-payment8001" />
         <module name="cloud-api-commons" />
         <module name="springcloud-config3344" />
+        <module name="springcloud-stream-tabbitmq-consumer8803" />
+        <module name="springcloud-stream-rabbitmq8801" />
         <module name="springcloud-eureka-server7002" />
         <module name="springcloud-eureka-server7001" />
         <module name="springcloud-gateway-gateway9527" />
         <module name="springcloud-openfeign-order80" />
         <module name="springcloud-order80" />
+        <module name="springcloud-stream-rabbitmq-consumer8802" />
         <module name="springcloud-consul-order80" />
         <module name="springcloud-hystrix-dashboard9001" />
         <module name="springcloud-openfeign-hystrix-order80" />
@@ -51,6 +55,10 @@
       <module name="springcloud-payment8002" target="1.8" />
       <module name="springcloud-payment8004" target="1.8" />
       <module name="springcloud-payment8006" target="1.8" />
+      <module name="springcloud-stream-rabbitmq-consumer8802" target="1.8" />
+      <module name="springcloud-stream-rabbitmq-consumer8803" target="1.8" />
+      <module name="springcloud-stream-rabbitmq8801" target="1.8" />
+      <module name="springcloud-stream-tabbitmq-consumer8803" target="1.8" />
       <module name="springcloud-zk-order80" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -75,6 +83,10 @@
       <module name="springcloud-payment8002" options="-parameters" />
       <module name="springcloud-payment8004" options="-parameters" />
       <module name="springcloud-payment8006" options="-parameters" />
+      <module name="springcloud-stream-rabbitmq-consumer8802" options="-parameters" />
+      <module name="springcloud-stream-rabbitmq-consumer8803" options="-parameters" />
+      <module name="springcloud-stream-rabbitmq8801" options="-parameters" />
+      <module name="springcloud-stream-tabbitmq-consumer8803" options="-parameters" />
       <module name="springcloud-zk-order80" options="-parameters" />
     </option>
   </component>

@@ -22,5 +22,9 @@ hystrix-dashboard9001:服务监控平台
 gateway-gateway9527:网关，配合8001、8002
 启动：7001、7002、8001、8002、9527
 
-config3344、config-client3355：springcloud配置中心
-启动7001、7002、3344、3355
+config3344、config-client3355/3366：springcloud配置中心及连接配置中心打微服务
+启动7001、7002、3344、3355、3366
+
+stream-rabbitmq8801:消息驱动生产者
+stream-rabbitmq8802/8803:消息驱动消费者
+启动：7001、7002、8801、8802、8803
